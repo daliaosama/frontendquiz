@@ -31,7 +31,7 @@ main {
 @media only screen and (min-width: 344px) and (max-width: 600px) {
   #maindiv{
     width: 90%;
-    
+    height: 58rem;
   }
   main{
     justify-content: unset;
